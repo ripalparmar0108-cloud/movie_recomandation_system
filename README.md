@@ -17,9 +17,9 @@ Recommendation Page
 * It increases revenues for business through increased consumption
 
 ### Data Overview
-Source: [TMDB]()
+Source: [TMDB](https://www.themoviedb.org/)
 
-Data: This data contains movies list of 5000 movies from '[The Movie Database (TMDB)]()', as well as various other information ranging from cast, release date, star cast, crew to budget of movie and even the languages in which it was released.
+Data: This data contains movies list of 5000 movies from ['The Movie Database (TMDB)'](https://www.themoviedb.org/), as well as various other information ranging from cast, release date, star cast, crew to budget of movie and even the languages in which it was released.
 
 Thier were two data sets which were combined and used as a one
 
@@ -46,8 +46,7 @@ There are many columns. Only important ones will be discussed here.
 ### Data Snapshot
 
 Let’s look at the data. Movies Dataset:
-![132911620-b62712a0-b97e-43e6-a08c-2a3731b4c51b.png](../../Pictures/Screenshots/132911620-b62712a0-b97e-43e6-a08c-2a3731b4c51b.png)
-
+![img.png](img.png)
 
 **Credits Dataset:**
 ![img_3.png](img_3.png)
