@@ -28,9 +28,8 @@ with open("movies_dict.pkl", "rb") as f:
 movies = pd.DataFrame(movies_dict)
 
 
-similarity = pickle.load(
-    open("similarity.pkl", "rb")
-)
+with open("similarity.pkl", "rb") as f:
+    data = pickle.load(f)
 
 # ---------------------------------------------------
 # SESSION STATE
